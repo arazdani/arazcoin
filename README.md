@@ -1,0 +1,2 @@
+# arazcoin
+Arazcoin
